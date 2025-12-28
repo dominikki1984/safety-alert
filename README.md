@@ -83,7 +83,7 @@ Funkcje SMS, połączeń telefonicznych i aparatu najlepiej testować na fizyczn
 
 Emulator Android może nie obsługiwać wszystkich natywnych funkcji (np. dialera).
 
-👤 Autor
+👤 Autorzy
 
 Autorzy: Dominik Cieśliński, Nikodem Czubak, Marcin Buczak
 Projekt wykonany w ramach zaliczenia przedmiotu związanego z programowaniem aplikacji mobilnych.
